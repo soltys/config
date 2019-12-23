@@ -4,7 +4,7 @@ package config
 
 import (
 	"errors"
-	"github.com/golobby/config/env"
+	"github.com/soltys/config/env"
 	"os"
 	"os/signal"
 	"strconv"

@@ -2,8 +2,8 @@ package config_test
 
 import (
 	json2 "encoding/json"
-	"github.com/golobby/config"
-	"github.com/golobby/config/feeder"
+	"github.com/soltys/config"
+	"github.com/soltys/config/feeder"
 	"github.com/stretchr/testify/assert"
 	"io/ioutil"
 	"os"
