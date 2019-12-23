@@ -1,4 +1,4 @@
-module github.com/golobby/config
+module github.com/soltys/config
 
 go 1.11
 
