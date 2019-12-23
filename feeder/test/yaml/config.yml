@@ -1,0 +1,13 @@
+name: MyAppUsingConfig
+version: 3.14
+numbers:
+- 1
+- 2
+- 3
+user:
+    name: Milad Rahimi
+    year: 1993
+    address:
+        country: Iran
+        state: Lorestan
+        city: Delfan

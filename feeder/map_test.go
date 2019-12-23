@@ -1,7 +1,7 @@
 package feeder_test
 
 import (
-	"github.com/golobby/config/feeder"
+	"github.com/soltys/config/feeder"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

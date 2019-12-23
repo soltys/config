@@ -1,8 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/golobby/config?status.svg)](https://godoc.org/github.com/golobby/config)
-[![Build Status](https://travis-ci.org/golobby/config.svg?branch=master)](https://travis-ci.org/golobby/config)
-[![Go Report Card](https://goreportcard.com/badge/github.com/golobby/config)](https://goreportcard.com/report/github.com/golobby/config)
-[![Coverage Status](https://coveralls.io/repos/github/golobby/config/badge.png?branch=master)](https://coveralls.io/github/golobby/config?branch=master)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Fork based on GoLobby Config
 
 # Config
 GoLobby Config is a lightweight yet powerful config package for Go projects. 

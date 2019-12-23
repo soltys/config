@@ -1,7 +1,7 @@
 package env_test
 
 import (
-	"github.com/golobby/config/env"
+	"github.com/soltys/config/env"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
